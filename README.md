@@ -1,0 +1,2 @@
+# YouTube-search-automation-using-Selenium-and-Python
+This project is a simple web automation script built using Python and Selenium WebDriver. The script automatically opens Google Chrome, visits YouTube, searches for a keyword, and performs browser actions programmatically.  The main goal of this project is to understand the basics of browser automation and how Selenium interacts with web elements. 
